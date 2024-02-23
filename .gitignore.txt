@@ -1,15 +1,15 @@
-# Created by https://www.toptal.com/developers/gitignore/api/altium
-# Edit at https://www.toptal.com/developers/gitignore?templates=altium
-
 ### Altium ###
 # Previews Folders
 **/__Previews/
 
 # History Folders
 **/History/*
+/01_HW/XC7Z010-1CLG400I_Test_Bd_(Rev.A)/History/
 
 # Project Logs
 Project\ Logs*/
+Project Logs for*
+/01_HW/XC7Z010-1CLG400I_Test_Bd_(Rev.A)/Project Logs for Project Logs for XC7Z010_Test_Bd_(Rev.A)/
 
 # Project Outputs
 Project\ Outputs*/
