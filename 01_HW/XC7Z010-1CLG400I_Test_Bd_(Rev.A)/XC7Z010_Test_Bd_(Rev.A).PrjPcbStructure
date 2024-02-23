@@ -3,3 +3,4 @@ Record=NoMainPathDocument|SourceDocument=00_Index.SchDoc|FileName=01_Overview.Sc
 Record=NoMainPathDocument|SourceDocument=00_Index.SchDoc|FileName=02_Power_Budget.SchDoc|SheetNumber=3
 Record=NoMainPathDocument|SourceDocument=00_Index.SchDoc|FileName=03_Power.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=00_Index.SchDoc|FileName=04_Zynq_Power.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=00_Index.SchDoc|FileName=05_Zynq_Config.SchDoc|SheetNumber=6
